@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">azra</string>
+    <string name="azra" translatable="false">Azra</string>
+    <string name="yellow_star" translatable="false">Yellow star</string>
+    <string name="bio" translatable="false">Hi, my name is Aleks.
+    I love fish.
+    The kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+    Fun fact is that I have several aquariums and also a river.
+    I like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+    And sometimes I even go fishing.
+    And even less sometimes, I actually catch something.
+    Once, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+    I\'ll be happy to teach you how to make your own aquarium.
+    You should ask someone else about fishing, though.</string>
+    <string name="zuta_zvijezda" translatable="false">Zuta zvijezda</string>
+</resources>
