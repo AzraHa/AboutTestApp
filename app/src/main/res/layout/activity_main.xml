@@ -14,7 +14,7 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/azra"
+        android:text="@string/name"
         android:textAlignment="center"
         android:gravity="center_horizontal" />
 
@@ -28,16 +28,14 @@
 
     <ScrollView
         android:id="@+id/bio_scroll"
-        android:layout_width="match_parent"
-        android:layout_height="862dp">
+        style="@style/scroll_style">
 
         <TextView
             android:id="@+id/bio_text"
             style="@style/NameStyle"
-            android:lines="15"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:lineSpacingMultiplier="2.7"
+            android:lineSpacingMultiplier="2.4"
             android:text="@string/bio" />
     </ScrollView>
 
